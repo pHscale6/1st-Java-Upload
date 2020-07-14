@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 // Paul Hyde
 public class VarDataTypeAssignment {
 	public static void main(String[] args) {
